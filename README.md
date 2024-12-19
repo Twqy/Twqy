@@ -8,7 +8,7 @@ Hi there! I am a second-year CS student at WLU<br>I REALLY WANT TO WIN A HACKATH
  * SQL, React, DJango
 
 # Contact:
-Feel free to reach out to me @ryantran.toronto@gmail.com
+Feel free to reach out to me! ryantran.toronto@gmail.com
 
 #
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Twqy&theme=dark&hide_border=true)<br/>
