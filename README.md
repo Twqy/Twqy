@@ -7,6 +7,7 @@ Hi there! I am a second-year CS student at WLU<br>I REALLY WANT TO WIN A HACKATH
 # Learning:
  * React, DJango
 
+#
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Twqy&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Twqy&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
