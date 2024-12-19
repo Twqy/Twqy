@@ -7,7 +7,7 @@ Hi there! I am a second-year CS student at WLU<br>I REALLY WANT TO WIN A HACKATH
 # Learning:
  * SQL, React, DJango
 
-# Contact
+# Contact:
 Feel free to reach out to me @ryantran.toronto@gmail.com
 
 #
